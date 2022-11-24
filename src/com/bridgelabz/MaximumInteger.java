@@ -1,6 +1,6 @@
 package com.bridgelabz;
 
-    public class MaximumInteger{
+    public class MaximumProblem{
 
         public static void findMaximum(Float floatNumber1,Float floatNumber2,Float floatNumber3)
         {
